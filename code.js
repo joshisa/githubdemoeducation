@@ -1,3 +1,4 @@
+#This is cool!
 
 struct group_info init_groups = { .usage = ATOMIC_INIT(2) }; 
  
